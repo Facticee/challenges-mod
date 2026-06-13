@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "challenges",
+  "version": "${version}",
+  "name": "challenges",
+  "description": "",
+  "authors": ["facticee"],
+  "license": "CC0-1.0",
+  "icon": "assets/challenges/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "value": "io.github.facticee.challenge.Challenges",
+        "adapter": "kotlin"
+      }
+    ],
+    "client": [
+      {
+        "value": "io.github.facticee.challenge.ChallengesClient",
+        "adapter": "kotlin"
+      }
+    ]
+  },
+  "mixins": [
+    "challenges.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "fabric-language-kotlin": "*"
+  }
+}
