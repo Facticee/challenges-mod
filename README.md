@@ -10,5 +10,9 @@ A Minecraft 26.x fabric mod that adds a challenge system to the game. Open /chal
 
 Challenges:
 Shared Life — every player shares damage. if one player gets hit, every other player takes the exact same amount.
+
 Jump Item — every time you jump, a random item drops at your feet.
+
 Ice Trail — press sneak to toggle an ice platform that follows you wherever you go. a 3x3 patch of ice spawns under you every tick, only on air so it won't replace existing blocks. works on foot and in boats.
+
+Randomizer - Every mined block drops a random new Item. E.g you mine a grass block and you get a Stone block (or skmething different)
