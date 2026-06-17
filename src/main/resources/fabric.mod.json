@@ -5,7 +5,7 @@
   "name": "challenges",
   "description": "",
   "authors": ["facticee"],
-  "license": "CC0-1.0",
+  "license": "CC BY-NC-SA",
   "icon": "assets/challenges/icon.png",
   "environment": "*",
   "entrypoints": {
