@@ -6,7 +6,7 @@ Please install this Mod aswell as the Support Mods [Fabric API](https://github.c
 
 ## Features & Describtion
 
-A Minecraft 26.x fabric mod that adds a challenge system to the game. Open /challenges to bring up the menu, pick a challenge, and it changes how the game plays. Challenges can be combined with the randomizer for extra chaos.
+A Minecraft 26.x fabric mod that adds a challenge system to the game. Open **/challenges** to bring up the menu, pick a challenge, and it changes how the game plays. Challenges can be combined with the randomizer for extra chaos.
 
 Challenges:
 Shared Life — every player shares damage. if one player gets hit, every other player takes the exact same amount.
