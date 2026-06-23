@@ -10,9 +10,9 @@ Please install this Mod aswell as the Support Mods [Fabric API](https://github.c
 **Note: If you already have Fabric installed (also the right verison), then you can skip to step 2**
 
 1. Go to the official Fabric website: https://fabricmc.net
-2. Press the big Download and download the installer for your operating system
+2. Press the big Download Button and download the installer for your operating system like windows or linux
 3. Run the downloaded installer
-4. Select the Minecraft Version and Loader Version you want to use, then click Instal
+4. Select the Minecraft Version and Loader Version you want to use, then click Install
 
 **Step 2: Download Your Mods**
 
@@ -25,11 +25,11 @@ Please install this Mod aswell as the Support Mods [Fabric API](https://github.c
 2. Open the .minecraft folder. Once in the .minecraft folder, open the folder called "mods" (Note: If you dont see the mods folder, you might not have fabric installed or you need to start minecraft with fabric first and close it)
 3. Once in the mod folder, copy the mod .jar files you jut downloaded, and paste them into there (the mods folder)
 
-**Step 4: Launch the Game**
+**Step 4: Launch the Game like you are used to**
 
 ## Features & Describtion
 
-A Minecraft 26.x fabric mod that adds a challenge system to the game. Open **/challenges** to bring up the menu, pick a challenge, and it changes how the game plays. Challenges can be combined with the randomizer for extra chaos.
+A Minecraft 26.x fabric mod that adds a challenge system to the game. Open **/challenges** to bring up the menu, pick a challenge, and it changes how the game plays. Challenges can be combined with the randomizer.
 
 Challenges:
 Shared Life — every player shares damage. if one player gets hit, every other player takes the exact same amount.
